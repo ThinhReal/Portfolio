@@ -1,4 +1,4 @@
-import myPhoto from '../assets/my-photo.jpg';
+import myPhoto from '../assets/my-photo.JPG';
 export function About() {
   return (
     <section id="about" className="py-20 px-6 relative">

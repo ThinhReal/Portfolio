@@ -1,12 +1,12 @@
 import { MapPin, Trophy, Plane, Mountain } from 'lucide-react';
 import { ImageWithFallback } from './ImageWithFallback';
-import run from "../assets/interests/run.jpg";
+import run from "../assets/interests/run.JPG";
 import Strava from "./ui/StravaBadge"
-import hanoi from "../assets/travel/HaNoi.jpeg";
-import quynhon from "../assets/travel/QuyNhon.jpg";
-import sapa from "../assets/travel/sapa.jpeg";
+import hanoi from "../assets/travel/HaNoi.JPEG";
+import quynhon from "../assets/travel/QuyNhon.JPG";
+import sapa from "../assets/travel/sapa.JPEG";
 import cangio from "../assets/travel/canGio.jpg";
-import dalat from "../assets/travel/DaLat.jpg";
+import dalat from "../assets/travel/DaLat.JPG";
 import nhatrang from "../assets/travel/nhaTrang.jpg";
 const runningStats = [
   { label: 'Full Marathon Completed', value: '2+' },
